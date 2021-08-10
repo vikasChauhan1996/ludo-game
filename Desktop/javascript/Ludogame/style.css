@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Chango", cursive;
+}
+body {
+  background-color: gray;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+#head {
+  color: #e3fd51;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+h1 {
+  margin: 30px;
+  text-shadow: 5px 5px whitesmoke;
+  font-size: 6rem;
+  color: #f6b93b;
+}
+
+h4 {
+  font-size: 2rem;
+  color: #00b894;
+  text-shadow: 1px 2px white;
+}
+
+button {
+  padding: 10px;
+  background-color: #00b894;
+  color: whitesmoke;
+  border: none;
+}
+img {
+  width: 70%;
+}
